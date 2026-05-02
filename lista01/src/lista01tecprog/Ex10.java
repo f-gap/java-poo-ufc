@@ -1,3 +1,5 @@
+package lista01tecprog;
+
 import java.util.Scanner;
 
 public class Ex10 {
@@ -18,6 +20,9 @@ public class Ex10 {
         }
         if(A>B) {
             System.out.println("O vencedor foi o candidato A");
+        }
+        else if(A == B) {
+        	System.out.println("Empate");
         }
         else {
             System.out.println("O vencedor foi o candidato B");

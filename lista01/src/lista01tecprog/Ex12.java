@@ -1,3 +1,5 @@
+package lista01tecprog;
+
 import java.util.Scanner;
 
 public class Ex12 {

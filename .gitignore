@@ -4,5 +4,5 @@ target/
 *.class
 *.log
 .settings/
-.project
+lista01/.project
 .classpath
